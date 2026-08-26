@@ -13,3 +13,4 @@ use:
     import utilities Opera: this import will make you life easier instead of programing a player this has it pre-built use this and give a path inside the brakets to play the file
     it starts playing until you click enter :) also add a string array first value as the keyword for play second value for pause 3rd Value for resume and last/4th value for Quit ppqr
     Opera.sing(path, ppqr);
+to see the content of the program run jar xf "whereYouFolderIsLiving/LibS.jar" which extracts all java files from the jar file to run you program please refer cp command.
